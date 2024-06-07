@@ -1,2 +1,0 @@
-# pray-now
-web
